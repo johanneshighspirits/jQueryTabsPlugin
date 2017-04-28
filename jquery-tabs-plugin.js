@@ -19,11 +19,11 @@
 
 //  Activate plugin
   $(document).ready(function(e) {
-    $("#uniqueId").travellinkTabs();
+    $("#uniqueId").jQueryTabsPlugin();
   });
 */
 (function($){
-  $.fn.travellinkTabs = function() {
+  $.fn.jQueryTabsPlugin = function() {
     var tabId = $(this).attr("id");
     var numberOfTabs = 0;
 
