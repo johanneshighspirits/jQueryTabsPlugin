@@ -13,7 +13,7 @@ Include CSS file and JS file
 
 Format your `html` like below:
 ```html
-<div class="jquery-plugin-container">
+<div class="jquery-tabs-plugin">
   <div id="uniqueId">
     <ul>
       <li data-nav-headline="Shorter Headline">
